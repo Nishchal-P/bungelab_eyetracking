@@ -20,6 +20,8 @@ This analysis makes the following assumptions:
 
 ################################################################
 
+import numpy as np
+import pandas as pd
 
 # Initialize variables
 
